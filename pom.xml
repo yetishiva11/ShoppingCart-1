@@ -143,3 +143,13 @@
 	</build>
 	<artifactId>shopieasy</artifactId>
 </project>
+<repository>
+  <id>shiva-projects</id>
+  <url>https://pkgs.dev.azure.com/shiva-projects/_packaging/shiva-projects/maven/v1</https://dev.azure.com/shiva-projects/>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
